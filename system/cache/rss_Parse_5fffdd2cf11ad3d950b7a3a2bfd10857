@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ version="2.0">
+<channel>
+<title>LinkBox-Me</title>
+<link>http://blog.linkbox.me/</link>
+<description></description>
+<language>en-US</language>
+<lastBuildDate>Mon, 19 Jul 2010 13:35:43 -0400</lastBuildDate>
+<generator>http://www.typepad.com/</generator>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" href="http://blog.linkbox.me/rss.xml" type="application/rss+xml" />
+<docs>http://www.rssboard.org/rss-specification</docs>
+<item>
+<title>Here comes another one</title>
+<link>http://blog.linkbox.me/2010/07/here-comes-another-one.html</link>
+<guid isPermaLink="true">http://blog.linkbox.me/2010/07/here-comes-another-one.html</guid>
+<description>Here&#39;s yet another test post for testing purposes. Again, you can disregard this post.</description>
+<content:encoded>Here&amp;#39;s yet another test post for testing purposes. Again, you can disregard this post.</content:encoded>
+
+
+
+<dc:creator>John Parrish</dc:creator>
+<pubDate>Mon, 19 Jul 2010 13:35:43 -0400</pubDate>
+
+</item>
+<item>
+<title>A test post</title>
+<link>http://blog.linkbox.me/2010/07/a-test-post.html</link>
+<guid isPermaLink="true">http://blog.linkbox.me/2010/07/a-test-post.html</guid>
+<description>This is just a test post message for testing sake. Please disregard.</description>
+<content:encoded>This is just a test post message for testing sake. Please disregard.</content:encoded>
+
+
+
+<dc:creator>John Parrish</dc:creator>
+<pubDate>Mon, 19 Jul 2010 13:34:58 -0400</pubDate>
+
+</item>
+
+</channel>
+</rss>
+
+<!-- ph=1 -->
+<!-- nhm:from_kauri -->

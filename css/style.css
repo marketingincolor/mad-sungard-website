@@ -1,0 +1,67 @@
+body { background-color: #234B68; text-align:center; min-width:955px; font-family:Tahoma,Verdana,Sans-serif; font-size:14px; color:#000; margin:0; }
+
+/*16,18,20,24*/
+h5 { background-color:transparent; font-size:15px; font-weight:bold; }
+h4 { background-color:transparent; font-size:16px; font-weight:bold; }
+h3 { background-color:transparent; font-size:18px; font-weight:bold; }
+h2 { background-color:transparent; font-size:20px; font-weight:bold; }
+h1 { background-color:transparent; font-size:24px; font-weight:bold; }
+img { border:0; }
+sup { font-size: .7em; }
+
+fieldset { background-color: #ACD0A2; display: block; border:none; }
+
+.formfieldset  { display: block; border:none;  background-color: transparent; padding:0px 0px 8px 0px; margin:0; }
+.formfieldset legend { font-weight:bold; color:#234B68; padding:0; margin:0px 0px 4px 0px; }
+.formbox { width:200px; }
+.column { width:955px; margin:0 auto; text-align:left; background-color:#FFF; }
+.col_full { width:955px; }
+.col_one { width:478px; }
+.col_two { width:410px; padding-right:35px; }
+.sc_col_one { width:415px; padding-left: 30px; }
+.sc_col_two { width:476px; /*padding-right:35px;*/ }
+
+.right { float:right; }
+.left { float:left; }
+.tright { text-align:right; }
+.tleft { text-align:left; }
+.bold { font-weight:bold; }
+.white { color:#FFF; }
+.orange { color:#F47921; }
+.dkgreen { background-color:#5EAE3D; }
+.red { color:#FF0000; }
+.green { color:#42A320; }
+.blue { color:#0066B1; }
+.small { font-size:12px; }
+.vsmall { font-size:10px; }
+.hidden { display:none; }
+.textbutton { cursor:pointer; }
+
+#cityresults { height:450px; overflow:auto;}
+#searchbox { text-align:left; width:476px; height:198px; background: url(../images/sungard_sc_findbox.jpg) no-repeat; padding-left:30px; }
+#searchform { width: 300px; }
+#contentform { display:block; padding-top:6px; }
+#benefits ul { width:410px; }
+#benefits li { width:380px; margin-bottom:10px; }
+#leftlist ul { line-height: 130%; }
+#leftlist li { margin-bottom:12px; }
+#footer { background-color:#ECECEC; padding:10px; font-size:12px; text-align:center; }
+
+#page_nav { width:955px; background: url(../images/sungard_sc_header_bar.jpg) #000; /*padding-right:30px;*/ }
+#page_nav  ul { list-style:none; padding:0; margin:0; float:left;} 
+#page_nav li { float:left; margin:0 0; } 
+#page_nav li a { background:#000; height:10px; /*width:120px;*/ display:block; line-height:10px; text-decoration:none; text-align:center; font-size:14px; font-weight:bold; color:#FFF; padding:8px 0px 8px 0px; margin:0px 10px 0px 10px; }
+#page_nav li#active a { background:#000; height:10px; /*width:120px;*/ display:block; line-height:10px; text-decoration:none; text-align:center; font-size:14px; font-weight:bold; color:#FFF; padding:8px 0px 8px 0px; margin:0px 10px 0px 10px; }
+#page_nav li a:hover { background:#000; height:10px; /*width:120px;*/ display:block; line-height:10px; text-decoration:none; text-align:center; font-size:14px; font-weight:bold; color:#CCC; padding:8px 0px 8px 0px; margin:0px 10px 0px 10px; } 
+
+#scpage_nav { width:925px; background:#0064B5; padding-right:30px; }
+#scpage_nav  ul { list-style:none; padding:0; margin:0; float:right;} 
+#scpage_nav li { float:left; margin:0 0; } 
+#scpage_nav li a { background:#E8F6FF; height:10px; width:160px; display:block; line-height:10px; text-decoration:none; text-align:center; font-size:16px; font-weight:bold; color:#989898; padding:10px 0px 10px 0px; margin:0px 10px 0px 10px; }
+#scpage_nav li#active a { background:#FFFFFF; height:10px; width:160px; display:block; line-height:10px; text-decoration:none; text-align:center; font-size:16px; font-weight:bold; color:#373737; padding:10px 0px 10px 0px; margin:0px 10px 0px 10px; }
+#scpage_nav li a:hover { background:#FFFFFF; height:10px; width:160px; display:block; line-height:10px; text-decoration:none; text-align:center; font-size:16px; font-weight:bold; color:#373737; padding:10px 0px 10px 0px; margin:0px 10px 0px 10px; } 
+
+#slideshow { position:relative; height:550px; margin-left:18px; }
+#slideshow IMG { position:absolute; top:0; left:0; z-index:8; opacity:0.0; }
+#slideshow IMG.active { z-index:10; opacity:1.0; }
+#slideshow IMG.last-active {  z-index:9; }
