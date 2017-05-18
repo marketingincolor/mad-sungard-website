@@ -9,12 +9,11 @@
     <ul>
     <li><a href=".">Main</a></li>
     <li id="active"><a href="automotive-window-film">Automotive</a></li>
-    <li><a href="archictectural-window-film">Architectural</a></li>
+    <li><a href="archictectural-window-film">Architectural & Safety</a></li>
     <li><a href="why-use-window-film">Why Use Window Film?</a></li>
     <li><a href="where-to-buy">Where to Buy</a></li>
-    <li><a href="sun-gard-window-film-faq">FAQ</a></li>
+    <li><a href="sun-gard-window-film-faq">FAQs</a></li>
     <li><a href="about-sun-gard-window-film">About Us</a></li>
-    <!--<li><a href="http://blog.sungarddealer.com">Film Clips</a></li>-->
     </ul><br clear="all" />
 </div>
 <div class="col_fullx" style="padding: 0px 20px; ">

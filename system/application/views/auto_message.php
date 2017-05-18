@@ -2,40 +2,57 @@
     <ul>
     <li><a href=".">Main</a></li>
     <li id="active"><a href="automotive-window-film">Automotive</a></li>
-    <li><a href="archictectural-window-film">Architectural</a></li>
+    <li><a href="archictectural-window-film">Architectural & Safety</a></li>
     <li><a href="why-use-window-film">Why Use Window Film?</a></li>
     <li><a href="where-to-buy">Where to Buy</a></li>
-    <li><a href="sun-gard-window-film-faq">FAQ</a></li>
+    <li><a href="sun-gard-window-film-faq">FAQs</a></li>
     <li><a href="about-sun-gard-window-film">About Us</a></li>
-    <!--<li><a href="http://blog.sungarddealer.com">Film Clips</a></li>-->
     </ul><br clear="all" />
 </div>
 <div class="sc_col_one left">
-<h1 class="orange" style="margin-bottom:0px;">Auto Window Films</h1>
-<h4>Protect Your Car, Truck, RV, Boat or Other Vehicle</h4>
+<h1 class="orange" style="margin-bottom:0px;">Automotive Window Film</h1>
+<h4>Experience the Benefits of Automotive Window Film</h4>
 
-<p>You take pride in what you drive, and you want to protect your investment. Choose SUN-GARD window films from 
-Madico to get the best protection money can buy, with long-lasting quality that's easy on the wallet.</p>
-    <a href="auto-tint-simulator"><img src="<?php echo base_url();?>images/auto-tint-button.jpg" alt="" /></a>
-<p>Privacy, security, and safety are just a few of the reasons to choose SUN-GARD<sup>&reg;</sup>.</p>
-
-<p>What you notice first is how great your car looks enhanced with SUN-GARD window film! Yet, look at all these
- other benefits you'll enjoy for choosing SUN-GARD:</p>
+<p>SUN-GARD<sup>&reg;</sup> automotive window films help to protect your vehicle from the harmful effects of the sun. Over time, the sun's heat and damaging UV rays contribute to interior fading as well as hardening and cracking of leather and vinyl. The sun also causes glare, which can make it hard to safely see other cars and traffic signals. UV radiation from the sun can even lead to skin problems for passengers.</p>
+   <!--<a href="auto-tint-simulator"><img src="<?php echo base_url();?>images/auto-tint-button.jpg" alt="" /></a>-->
+<p>What you'll notice first is how great your car looks when enhanced with SUN-GARD window film. Yet, look at all these other benefits you'll enjoy when choosing SUN-GARD:</p>
 <ul>
-<li>Reduces interior fading by blocking out harsh sunshine</li>
+<li>Reduces interior fading by blocking out harsh sunlight</li>
 <li>Blocks out unwanted heated, making the interior of your car much more comfortable</li>
 <li>Minimizes eye strain by reducing the sun's glare</li>
 <li>Provides privacy from prying eyes</li>
 <li>Holds glass shards together in the event of an accident</li>
-<li>Field and lab-tested under the worst weather conditions</li>
-<li>Backed by industry-leading warranties</li>
-<li>Available in a wide range of shades</li>
+<li>Available in a wide range of shades and styles</li>
 <li>Installed by professionals across the globe</li>
 </ul>
 
-<p>To learn about which of our automotive films might be right for you, <a href="sun-gard-window-film-faq">click here</a>. For detailed product technical 
-information, please refer to our corporate website at <a href="http://www.madico.com/window-film/automotive/automotive-solar-control-films/" target="_new">www.madico.com</a>. Check out our new automotive film installation videos, <a href="http://www.youtube.com/user/MadicoFilms" target="_new">click here</a>.</p>
-<img src="<?php echo base_url();?>images/sungard_sc_proinst.jpg" alt="" />
+<br>
+<p>Three SUN-GARD films are available to meet the unique needs of every vehicle owner.</p>
+<br>
+<div id="tabs-container">
+    <ul class="tabs-menu">
+        <li class="current"><a href="#tab-1">Black Pearl HP & NR</a></li>
+        <li><a href="#tab-2">Shadow</a></li>
+        <li><a href="#tab-3">GP Max</a></li>
+    </ul>
+    <div class="tab">
+        <div id="tab-1" class="tab-content">
+            <p>Black Pearl is a solution dyed film with rich grey tones and a sophisticated style. It's a contour engineered product which makes for cleaner and faster installations for dealers. Vehicle owners will love the wide range of shades available as well as the choice of two versions, a high performance film that offers superior heat rejection and a non-reflective film that ensures no signal disruption, both with 99% UV rejection.</p>
+        </div>
+        <div id="tab-2" class="tab-content">
+            <p>Shadow is a non-reflective film with a dark black color perfect for any vehicle. Its metal free construction ensures no signal disruption for drivers. Manufactured with the latest color-stable technology in dyed films, Shadow is durable, long-lasting and provides enhanced UV radiation protection.</p>
+        
+        </div>
+        <div id="tab-3" class="tab-content">
+            <p>GP Max is a metalized dyed film that features an attractive neutral color with excellent heat shrinking properties. Its affordability makes it a popular film option amongst budget conscious vehicle owners who want a high performing film with good heat rejection.</p>
+        </div>
+    </div>
+</div>
+
+<br clear="all">
+<p><a href="http://www.madico.com/sungardfiles/Sun-Gard%20Automotive%20Spec%20Sheet.pdf" class="tab-button text-button" target="_blank">Automotive Film Performance Specifications</a></p>
+<br>
+<p><img src="<?php echo base_url();?>images/sungard_sc_proinst.jpg" alt="" /></p>
 </div>
 
 <div class="sc_col_two right" style="text-align:center;">
@@ -69,6 +86,15 @@ function slideSwitch() {
 
 $(function() {
     setInterval( "slideSwitch()", 5000 );
+});
+
+$(".tabs-menu a").click(function(event) {
+    event.preventDefault();
+    $(this).parent().addClass("current");
+    $(this).parent().siblings().removeClass("current");
+    var tab = $(this).attr("href");
+    $(".tab-content").not(tab).css("display", "none");
+    $(tab).fadeIn();
 });
 
 </script>

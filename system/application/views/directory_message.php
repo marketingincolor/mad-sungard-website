@@ -2,18 +2,17 @@
     <ul>
     <li id="active"><a href=".">Main</a></li>
     <li><a href="automotive-window-film">Automotive</a></li>
-    <li><a href="archictectural-window-film">Architectural</a></li>
+    <li><a href="archictectural-window-film">Architectural & Safety</a></li>
     <li><a href="why-use-window-film">Why Use Window Film?</a></li>
-    <li><a href="sun-gard-window-film-faq">FAQ</a></li>
+    <li><a href="sun-gard-window-film-faq">FAQs</a></li>
     <li><a href="about-sun-gard-window-film">About Us</a></li>
-    <li><a href="http://blog.sungarddealer.com">Film Clips</a></li>
     </ul><br clear="all" />
 </div>
 
 <div id="whybox" class="sc_col_one left"><!-- <?php echo $thiscountry;?> - <?php echo $thisregion;?> -->
 	<h1 class="orange" style="margin-bottom:0px;">Why Choose SUN-GARD<sup>&reg;</sup>?</h1>
 	<span id="leftlist"><h5 style="margin-bottom:4px;">SUN-GARD Window Film:</h5>
-	<ul><li>Alleviates sun-damaging effects, by blocking up to 99% of UV rays and reflecting more than 78% of the sun’s heat. </li>
+	<ul><li>Alleviates sun-damaging effects, by blocking up to 99% of UV rays and reflecting more than 80% of the sun’s heat. </li>
 	<li>Enhances the look of any vehicle or building, while providing energy-saving comfort in hot summers and cold winters.</li>
 	<li>Our window tint is installed only by highly-trained professional dealers, who are conveniently located throughout the world.</li>
 	</ul>
