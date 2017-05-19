@@ -19,11 +19,11 @@
     <p>To locate a dealer outside of the United States, please contact one of our authorized distribution partners:</p>
         <ul>
             <li><a href="#na">North America</a>
-            <li><a href="#la">Latin America</a>
-            <li><a href="#eu">Europe</a>
-            <li><a href="#australia">Australia</a>
             <li><a href="#africa">Africa</a>
             <li><a href="#asia">Asia</a>
+            <li><a href="#australia">Australia</a>
+            <li><a href="#eu">Europe</a>
+            <li><a href="#la">Latin America</a>
             <li><a href="#me">Middle East</a>
         </ul>
     <br>
@@ -146,9 +146,6 @@
 
     <p><a href="#top">Back to top</a> </p>
 
-
-
-
    <a name="asia"></a> 
     <h3>Asia</h3>
     <h4>CHINA (P.R.C.)</h4>
@@ -217,7 +214,7 @@
 
     <p><a href="#top">Back to top</a> </p>
 
-    <a name="austrialia"></a> 
+    <a name="australia"></a> 
     <h3>Australia</h3>
     <p>
         <strong>MEP Films</strong><br />

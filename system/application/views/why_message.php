@@ -19,7 +19,7 @@ Window film is typically tinted and applied professionally to the glass surface 
 to promote personal and property protection. Beyond its protective qualities, window films also come in many shades 
 and colors to provide aesthetic enhancements, as well.
 
-<h4>Why Use Window Film?</h4>
+<h4>Why use Window Film?</h4>
 
 Using window film in your home, commercial buildings, and vehicles helps to protect you and your property from the 
 damaging effects of the sun. Over time, the sun's heat and harmful UV rays contribute to the fading of interior
@@ -30,14 +30,14 @@ damaging effects of the sun. Over time, the sun's heat and harmful UV rays contr
 <h4>Why Choose SUN-GARD<sup>&reg;</sup> Window Film?</h4>
 
 <img src="<?php echo base_url();?>images/sungard_sc_why_3.jpg" alt="" style="float:left; padding-right:10px;"/>
-<p>SUN-GARD window films help alleviate sun-damaging effects, by blocking up to 99% of UV rays and reflecting more than 
+<p>SUN-GARD window films help alleviate sun-damaging effects, by blocking up to 99% of UV rays and reflecting up to 
 80% of the sun's heat.</p>
 
 <p>What's more, SUN-GARD enhances the look of any vehicle or building, while providing energy-saving comfort in hot 
 summers and cold winters.</p>
 
 <p>Madico, Inc. is an industry leader specializing in the development and manufacturing of window films for cars, homes 
-and commercial buildings. For more than 35 years, our SUN-GARD brand solar films have been respected around the world. 
+and commercial buildings. For more than 35 years, our SUN-GARD window films have been respected around the world. 
 <a href="http://www.madico.com" target="_new">Learn more about Madico</a>.</p>
 <br><br>
 <img src="<?php echo base_url();?>images/sungard_sc_proinst.jpg" alt="" />

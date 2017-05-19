@@ -26,7 +26,6 @@
 <li>Installed by professionals across the globe</li>
 </ul>
 
-<br>
 <p>Three SUN-GARD films are available to meet the unique needs of every vehicle owner.</p>
 <br>
 <div id="tabs-container">

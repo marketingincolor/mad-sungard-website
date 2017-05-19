@@ -68,7 +68,7 @@
 <br>
 
 <br clear="all">
-<p><a href="http://www.madico.com/sungardfiles/Sun-Gard%20Architectural%20Spec%20Sheet.pdf" class="tab-button text-button" target="_blank">Safety & Security Film Performance Specifications</a></p>
+<p><a href="http://www.madico.com/sungardfiles/Sun-Gard%20Safety%20%26%20Security%20Spec%20Sheet.pdf" class="tab-button text-button" target="_blank">Safety & Security Film Performance Specifications</a></p>
 <br>
 
 
