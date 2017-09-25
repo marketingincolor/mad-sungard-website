@@ -160,19 +160,6 @@
         Fax: +86-(592)-723-7779<br />
     </p>
 
-    <h4>INDONESIA</h4>
-    <p>
-        <strong>Sun-Gard Indo Mulia</strong><br />
-        Jalan R.E. Martanidata, Blok L, No. 11<br />
-        Komplek Ruko Permata Ancol<br />
-        Jakarta Utara 14420<br />
-        Indonesia<br />
-        Tel: +62-(21)-641-0571<br />
-        Fax: +62-(21)-384-2501<br />
-        Web: <a href="http://www.sungard-indonesia.com" target="_blank">www.sungard-indonesia.com</a><br />
-        Email: <a href="mailto:sungard-indonesia@hotmail.com">sungard-indonesia@hotmail.com</a><br />
-    </p>
-
     <h4>KOREA</h4>
     <p>
         <strong>SUN-GARD Korea Inc.</strong><br />
