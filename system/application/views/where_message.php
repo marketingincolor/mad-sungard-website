@@ -370,9 +370,9 @@
     <h4>CHILE</h4>
     <p>
         <strong>Interfilm Ltda.</strong><br />
-        Pedro de Valdivia 2993<br />
-        &Ntilde;u&ntilde;oa<br />
-        Santiago<br />
+        Orlando Bero&iacute;za<br />
+        Manuel Montt 2024<br />
+        Santiago, Chile 7501397<br />
         Tel: +56-(2)-2225-72-92<br />
         Fax: +56-(2)-2225-45-42<br />
         Web: <a href="http://www.interfilm.cl" target="_blank">www.interfilm.cl</a><br />
@@ -413,15 +413,14 @@
 
     <h4>PERU</h4>
     <p>
-        <strong>GRUPO SGF, SAC.</strong><br />
-        Avenida Tom&aacute;s Marsano 1096<br />
-        Surquillo<br />
-        Lima 34<br />
-        Peru<br />
+        <strong>SEGURFILM </strong><br />
         William Trigo Romero<br />
-        Tel: +51-(1)-446-5190<br />
-        Fax: +51-(1)-445-0666<br />
-        Email: <a href="mailto:segurfilm@qnet.com.pe">segurfilm@qnet.com.pe</a><br />
+        Avenida Tom&aacute;s Marsano 3253<br />
+        Santiago de Surco<br />
+        Lima 33, Per&uacute;<br />
+        Tel. +51 (1) 448 1228<br />
+        Móvil +51 981 298 435<br />
+        Email: <a href="mailto:wtrigo@segurfilm.com">wtrigo@segurfilm.com</a><br />
     </p>
 
     <p><a href="#top">Back to top</a></p>
