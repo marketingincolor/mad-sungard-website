@@ -384,9 +384,10 @@
         Jos&eacute; Tapia Brea 300, Evaristo Morales<br />
         Santo Domingo, Dominican Republic<br />
         Tel: +1-(809)-334-5262<br />
-        Mobile: +1-(809) 860-1818<br />
         Fax: +1-(809)-338-5262<br />
-        Email: <a href="mailto:jamasol.srl@gmail.com">jamasol.srl@gmail.com</a><br />
+        WhatsApp: +1-(809)-819-5262<br />
+        Email: <a href="mailto:info@jamasol.com">info@jamasol.com</a><br />
+        Web: <a href="http://www.jamasol.com" target="_blank">www.jamasol.com</a><br />
     </p>
 
     <h4>PARAGUAY</h4>
